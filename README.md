@@ -1,12 +1,14 @@
-### Hi there 👋
-# pedrokussy
-
-<div style="display: inline_block"><br>
-  <img align="center" alt="Java" height="45" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" alt="NodeJs" height="45" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="MySQL" height="65" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
-  <img align="center" alt="Mongodb" height="50" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg">
-  <img align="center" alt="HTML5" height="45" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg">
-  <img align="center" alt="CSS3" height="45" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg">
-
-</div>
+<html>
+  
+  <head>
+    <meta charset="utf-8" />
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,200;0,300;1,500&display=swap" rel="stylesheet">
+  </head> 
+  
+  <body>
+    <h1>Hello, i am Pedro Kussy.</h1>
+  </body> 
+  
+</html>
